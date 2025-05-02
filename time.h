@@ -18,7 +18,7 @@ int interval() {
     
     while(x!=0)
     {
-        cout << "PRESS 0 TO TERMINATE TRIP"<<endl;
+        cout << " PRESS 0 TO TERMINATE TRIP "<<endl;
         cin >> x;
         
     }
